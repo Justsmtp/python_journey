@@ -1,7 +1,9 @@
 📚 Python Learning Journey
+
 Welcome to my Python Journey repository! This is where I document my progress as I learn Python by working on small projects and coding challenges. Each task helps me practice different concepts such as variables, conditionals, loops, and more.
 
 🐍 Projects So Far
+
 1️⃣ Mad Libs Story Generator
 A simple word game where users provide different words (adjectives, nouns, etc.) to create a fun and random story.
 
@@ -12,6 +14,7 @@ User input and variables
 String formatting
 
 Conditional logic for story variations
+
 
 2️⃣ Number Guessing Game with Match-Case
 A guessing game where the program picks a random number, and the user has to guess it.
@@ -26,7 +29,10 @@ Loops and input validation
 
 A counter that tracks the number of guesses
 
+
 🚀 Goals for This Repository
+
+
 📌 Complete more small Python challenges
 
 📌 Practice problem-solving and logic
