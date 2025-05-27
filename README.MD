@@ -41,15 +41,24 @@ A counter that tracks the number of guesses
 
 📌 Build confidence as a Python programmer!
 
+
 💻 How to Run the Code
 Clone the repository:
 
 
 git clone https://github.com/your-username/python_journey.git
+
+
 Navigate into the folder and run the scripts:
+
 
 python mad_libs.py
 python Number_guess.py
+
+
 🌟 Stay Tuned!
+
+
+
 More projects and challenges coming soon as I continue learning Python. 🎓
 
